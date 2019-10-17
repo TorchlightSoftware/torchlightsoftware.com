@@ -1,8 +1,8 @@
 enable : true
 image : images/about/about-business-man.jpg
-title : We’re A Digital Design Agency.
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+title : Are you looking for a technical ally who can understand your vision and work to make it happen?
+description : Torchlight Software has worked for over a decade with decision makers like you. We treat every relationship as a partnership on a foundation of trust and good communication. As fellow startup founders, we understand your business goals and we are highly aware of the technology landscape.
+description2 : Nothing gives us greater pleasure than solving hard problems and seeing teh results. We hope you'll enjoy our straightfowardness, our dedication to great userr experiences and our playful approach to getting it done. We look forward to creating together.
 aboutItem : 
   - icon : tf-circle-compass
     title : SEO Optimized

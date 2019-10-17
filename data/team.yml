@@ -1,9 +1,9 @@
 enable : true
-heading : Our
-headingSpan : Team
+heading : Our Team
+
 teamMember :
-  - image : images/team/team-1.jpg
-    name : Abul Mal Muhit
+  - image : images/team/torchteam-1.jpg
+    name : Brandon Mason
     designation : CEO/Founder
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
@@ -16,9 +16,9 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
-  - image : images/team/team-2.jpg
-    name : Frank Miller
-    designation : Manager
+  - image : images/team/torchteam-2.jpg
+    name : Kent Robinson
+    designation : UI/UX Designer
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
       - icon : tf-ion-social-facebook
@@ -30,9 +30,9 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
-  - image : images/team/team-3.jpg
-    name : Michael Jonson
-    designation : Web Developer
+  - image : images/team/torchteam-3.jpg
+    name : Maylene Cavazos
+    designation : Project Manager
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
       - icon : tf-ion-social-facebook
@@ -44,9 +44,23 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
-  - image : images/team/team-4.jpg
-    name : Mo. Kha. Alamgir
+  - image : images/team/torchteam-4.jpg
+    name : Lead Developer
     designation : SEO Specialist
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"
+
+  - image : images/team/torchteam-5.jpg
+    name : Milan Prpa
+    designation : Frontend Developer
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
       - icon : tf-ion-social-facebook

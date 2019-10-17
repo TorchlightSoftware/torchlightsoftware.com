@@ -1,55 +1,36 @@
 enable : true
-heading : Our Greatest
-headingSpan : Plans
+heading : Our Services
+
 pricingTable :
-  - title : Free
-    price : $99
+ 
+  - title : Blueprint
+    price : $12K
     time : month
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+      - planDetails : Interactive Design Sessions
+      - planDetails : Visual mockups
+      - planDetails : Proposal for specific technologies
+      - planDetails : Implementation roadmap
       
-  - title : Silver
-    price : $149
-    time : month
+  - title : Product Development
+    price : $60K
+    time : /month
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
+      - planDetails : Custom design team
+      - planDetails : Agile sprints
       - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+      - planDetails : Project status updates
+      - planDetails : Iterative development workflow
       
-  - title : Gold
-    price : $199
-    time : month
+  - title : Hourly Development
+    price : $150 - 200
+    time : /hour
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
-      
-  - title : Platinum
-    price : $299
-    time : month
-    btnURL : #
-    btnText : Signup
-    plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+      - planDetails : Rates vary based on services offered
+     

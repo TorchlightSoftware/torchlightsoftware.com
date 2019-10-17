@@ -1,27 +1,27 @@
 enable : true
-heading : Our
-headingSpan : Services
+heading : Our Specialties
+
 serviceItem :
   - icon : tf-globe
-    title : WordPress Theme
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : MVP Software Design
+    content : Our team of brilliant engineers, designers and project managers puts working software in your hands within weeks.
     
   - icon : tf-ion-laptop
-    title : Responsive Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
+    title : Web App Development
+    content : We build complex data driven applications on the web. If you're looking to launch a social or business platform, we're a perfect fit.
+
   - icon : tf-genius
-    title : Media &amp; Advertisement
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Mobile App Development
+    content : We specialize in hybrid mobile apps - using web technology to publish to multiple mobile platforms and save on development cost.
     
   - icon : tf-dial
-    title : Graphic Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : API/Cloud Services
+    content : We build our backend services in house, in tandem with the app features we deliver to you.
     
   - icon : tf-target3
-    title : Apps Development
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Payment Systems
+    content : We have completed both web and in person kiosk payments and we're confident in implementing your payment.
     
   - icon : tf-lifesaver
-    title : Networking
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Linux/Database/DevOps
+    content : With strong Linux, Database and Kubernetes knowledge we will make sure your data is protected and your services stay online.

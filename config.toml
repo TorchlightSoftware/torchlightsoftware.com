@@ -13,12 +13,12 @@ summaryLength = 10
 # Menu
 [menu]
     [[menu.nav]]
-    name = "About Us"
+    name = "About"
     URL = "about"
     weight = 2
 
     [[menu.nav]]
-    name = "Service"
+    name = "Services"
     URL = "services"
     weight = 3
 
@@ -38,9 +38,9 @@ summaryLength = 10
     weight = 6
 
     [[menu.nav]]
-    name = "Blog"
-    URL = "blog"
-    weight = 7
+    #name = "Blog"
+    #URL = "blog"
+    #weight = 7
 
     [[menu.nav]]
     name = "Contact"
@@ -50,7 +50,7 @@ summaryLength = 10
 # Site params
 [params]
 home= "Home"
-logo = "images/logo.png"
+logo = "images/torch-navi.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
@@ -62,26 +62,26 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
-    icon = "tf-ion-play"
-    heading = "Experience the new reality"
-    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+    bgImage = "images/slider/torch-hero.jpg"
+    #icon = "tf-ion-play"
+    heading = "Bringing Your Vision To Light"
+    content= "We build flagship software products for new markets"
     btn = true
-    btnText="Explore Us"
+    btnText="See more"
     btnURL="#services"
 
     # call to action
     [params.cta]
     enable = true
-    title = "Great Design & Incredible Features"
-    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-    btnURL = "#"
-    btnText = "Start a project with us"
+    title = "Direct. Honest. Dependable. Brilliant."
+    content = "You're looking for a technical implementation plan and a brilliant team to accomplish it. You're looking to have trusted technical advisors that are not going to add busy work to fill an invoice but concentrate on explicit vaule."
+    #btnURL = "#"
+    #btnText = "Start a project with us"
 
     # counter
     [params.counter]
     enable = true
-    bgImage = "images/backgrounds/bg-1.jpg"
+    bgImage = "images/backgrounds/desert-bg.jpg"
         [[params.counter.counterItem]]
         title = "Happy Clients"
         icon = "tf-ion-android-happy"
