@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Meghna"
+title = "Torchlight"
 theme = "meghna-hugo"
 summaryLength = 10
 
@@ -51,10 +51,9 @@ summaryLength = 10
 [params]
 home= "Home"
 logo = "images/torch-navi.png"
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Themefisher"
+description = "We bring your software vision to light"
+author = "Milan Prpa"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 custom_css = ["css/custom.css"]
