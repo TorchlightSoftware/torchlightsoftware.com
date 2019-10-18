@@ -3,7 +3,7 @@ heading : Our Services
 
 pricingTable :
  
-  - title : Blueprint
+  - title : Blueprint 
     price : $12K
     time : month
     btnURL : #
@@ -13,6 +13,7 @@ pricingTable :
       - planDetails : Visual mockups
       - planDetails : Proposal for specific technologies
       - planDetails : Implementation roadmap
+
       
   - title : Product Development
     price : $60K
@@ -22,9 +23,9 @@ pricingTable :
     plan :
       - planDetails : Custom design team
       - planDetails : Agile sprints
-      - planDetails : Script Installer
       - planDetails : Project status updates
       - planDetails : Iterative development workflow
+    
       
   - title : Hourly Development
     price : $150 - 200
@@ -33,4 +34,7 @@ pricingTable :
     btnText : Signup
     plan :
       - planDetails : Rates vary based on services offered
+     
+
+    
      

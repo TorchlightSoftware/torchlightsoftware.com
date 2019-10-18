@@ -45,8 +45,8 @@ teamMember :
         url : "#"
       
   - image : images/team/torchteam-4.jpg
-    name : Lead Developer
-    designation : SEO Specialist
+    name : Martin Patino
+    designation : Lead Developer
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
       - icon : tf-ion-social-facebook
