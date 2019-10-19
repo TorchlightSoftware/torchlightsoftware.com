@@ -5,7 +5,7 @@ pricingTable :
  
   - title : Blueprint 
     price : $12K
-    time : month
+    time : 
     btnURL : #
     btnText : Signup
     plan :
