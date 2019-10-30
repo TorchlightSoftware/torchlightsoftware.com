@@ -1,7 +1,7 @@
 enable : true
 heading : About Us
 
-aboutItem : 
+aboutItem :
 - icon : tf-tools
   title : We Listen
   content : We reflect your ideas back to you as digital workflows and offer our technology expertise.

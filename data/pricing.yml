@@ -2,39 +2,40 @@ enable : true
 heading : Our Services
 
 pricingTable :
- 
-  - title : Blueprint 
+
+  - title : Blueprint
     price : $12K
-    time : 
+    time :
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : Interactive Design Sessions
-      - planDetails : Visual mockups
-      - planDetails : Proposal for specific technologies
+      - planDetails : In-Person Design Sessions
+      - planDetails : Visual Mockups
+      - planDetails : User Stories
+      - planDetails : Cost/Time/Risk Analysis
       - planDetails : Implementation roadmap
 
-      
+
   - title : Product Development
-    price : $60K
+    price : $80K*
     time : /month
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : Custom design team
-      - planDetails : Agile sprints
-      - planDetails : Project status updates
-      - planDetails : Iterative development workflow
-    
-      
+      - planDetails : Fully staffed development
+      - planDetails : UX/PM Included
+      - planDetails : We help you hire and train your team
+      - planDetails : Biweekly Commitment Planning
+      - planDetails : "*Price based on typical resource allocation"
+
   - title : Hourly Development
-    price : $150 - 200
+    price : $150 - 200*
     time : /hour
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : Rates vary based on services offered
-     
+      - planDetails : "*Price varies based on specialty/experience level"
 
-    
-     
+
+
+

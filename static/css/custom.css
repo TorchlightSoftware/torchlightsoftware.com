@@ -1,1 +1,6 @@
-
+.member-photo img {
+  display: block;
+  text-align: center;
+  height: 175px;
+  margin: auto;
+}
