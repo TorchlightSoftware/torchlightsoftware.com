@@ -1,14 +1,34 @@
 enable : true
 heading : Contact Us
 
+description: We want to work with people who are
+
+message:
+
+- bulletPoint:
+    - msg: "Changing the world"
+    - msg: "Values driven"
+    - msg: "Want to learn from other perspectives"
+
+description2: "If this sounds like you, we'd love to talk. We think that by working together to understand the world we can create better products and better companies. We care about your people, your customers, and your product."
+
+
+
 title : Lets talk about your vision
 content : We'll get back to you shortly and schedule a free consultation call.
 enable_maps : false
 
+
 contactDetails :
   - icon : tf-map-pin
     info : "Phoenix, AZ"
+    
+    
+
+  
+  - icon : tf-ion-ios-telephone-outline
+    info : "623-882-4246"  
 
   - icon : tf-ion-ios-email-outline
-    info : "contact@torchlightsoftware.com"
+    info : "brandon@torchlightsoftware.com"
 

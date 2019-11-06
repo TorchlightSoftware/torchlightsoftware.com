@@ -1,0 +1,23 @@
+{{ if .Site.Data.about.enable}}
+{{"<!-- Start About Section -->" | safeHTML}}
+<section class="about section" id="about">
+  <div class="content-block" style="padding: 25px 50px 75px 100px;">
+    {{with .Site.Data.program.title}} <h2>{{ . }}</h2> {{ end }}
+    {{with .Site.Data.program.description}} <p>{{ . }}:</p> {{ end }}
+    
+    {{ range .Site.Data.program.message}}
+      <ul>
+          {{range .bulletPoint}}
+            <li>{{ .msg }}</li>
+          {{end}}
+      </ul>
+      {{end}}
+
+    {{with .Site.Data.program.description2}} <p>{{ . }}</p> {{ end }}
+    {{with .Site.Data.program.description3}} <p>{{ . }}</p> {{ end }}
+    {{with .Site.Data.program.description4}} <p>{{ . }}</p> {{ end }}
+  </div>
+  
+</section>
+{{"<!-- /about -->" | safeHTML}}
+{{ end }}

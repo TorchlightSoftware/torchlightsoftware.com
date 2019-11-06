@@ -9,6 +9,12 @@
                     <h2>{{ with .Site.Data.service.heading }} {{ . }} {{ end }}<span class="color">{{ with .Site.Data.service.headingSpan }} {{ . }} {{ end }}</span></h2>
                     <div class="border-meghna"></div>
                 </div>
+                <div style="padding-bottom: 60px;">
+                    
+                    {{with .Site.Data.tech.description}} <p>{{ . }}</p> {{ end }}
+                    {{with .Site.Data.tech.description2}} <p>{{ . }}:</p> {{ end }}
+                
+                  </div>
             </div>
             {{"<!-- /section title -->" | safeHTML }}
 

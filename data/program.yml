@@ -1,0 +1,16 @@
+enable : true
+image : images/about/about-business-man.jpg
+title : The Torchlight Self-Reliance Program
+description : We've been in the startup game for over a decade. Startup founders often seek out experienced consultants to build their MVP. One of the biggest problems that we see is lack of a smooth transition path into self reliance. The founder is left to figure out a number of things on their own
+
+message:
+
+- bulletPoint:
+    - msg: "Understanding the production pipeline of their company"
+    - msg: "Hiring the right technical staff"
+    - msg: "Training staff on the specific practices that make this company successful"
+
+description2 : These knowledge gaps leave you dependent on outside services and paying high consulting fees for long term development. We'd love to help you get your project started, but we don't want to be joined at the hip.
+description3 : We want to make our practices and knowledge available to you. In order to do that we've created a learning platform that helps you as a business owner understand how to take what we've started and run with it.
+description4 : We'd love to talk to you about it, and how we can serve your needs.
+

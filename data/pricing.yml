@@ -9,32 +9,32 @@ pricingTable :
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : In-Person Design Sessions
+      - planDetails : Interactive Design Sessions
       - planDetails : Visual Mockups
-      - planDetails : User Stories
-      - planDetails : Cost/Time/Risk Analysis
+      - planDetails : Proposal for specific technologies
       - planDetails : Implementation roadmap
 
 
   - title : Product Development
-    price : $80K*
+    price : $80K
     time : /month
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : Fully staffed development
-      - planDetails : UX/PM Included
-      - planDetails : We help you hire and train your team
-      - planDetails : Biweekly Commitment Planning
-      - planDetails : "*Price based on typical resource allocation"
+      - planDetails : Custom design team
+      - planDetails : Agile sprints
+      - planDetails : Project status updates
+      - planDetails : Iterative development workflow
+      
 
-  - title : Hourly Development
-    price : $150 - 200*
-    time : /hour
+  - title : Self-Reliance
+    price : $0
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : "*Price varies based on specialty/experience level"
+      - planDetails : We help you hire & train your team
+      - planDetails : We share our business process
+      - planDetails : We teach you how to rock at owning a software company
 
 
 

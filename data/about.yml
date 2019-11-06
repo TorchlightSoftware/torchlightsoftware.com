@@ -1,15 +1,15 @@
 enable : true
-heading : About Us
+heading : Working With Us
 
 aboutItem :
 - icon : tf-tools
-  title : We Listen
+  title : Plan
   content : We reflect your ideas back to you as digital workflows and offer our technology expertise.
 
 - icon : tf-strategy
-  title : We Design
-  content : We create a blueprint and technical action plan.
+  title : Build 
+  content : We create a blueprint and technical action plan. Our team of brilliant engineers, designers and project managers puts working software in your hands within weeks.
 
 - icon : tf-anchor2
-  title : We Create
-  content : Our team of brilliant engineers, designers and project managers puts working software in your hands within weeks.
+  title : Self-Reliance
+  content : We help you hire and and train a team so that you and your company have a sustainable and supported product.

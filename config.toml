@@ -63,8 +63,8 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/torch-hero.jpg"
     #icon = "tf-ion-play"
-    heading = "We Bring Your Software Vision To Light"
-    content= "We build flagship software products for new markets"
+    heading = "Bringing Your Software Vision To Light"
+    content= "We launch flagship software companies in new markets"
     btn = true
     btnText="See more"
     btnURL="#services"
@@ -72,8 +72,8 @@ custom_css = ["css/custom.css"]
     # call to action
     [params.cta]
     enable = true
-    title = "Direct. Honest. Dependable. Brilliant."
-    content = "You're looking for a technical implementation plan and a brilliant team to accomplish it. You're looking to have trusted technical advisors that are not going to add busy work to fill an invoice but concentrate on explicit vaule."
+    title = "Is your self-reliance important to you?"
+    content = "It is to us." 
     #btnURL = "#"
     #btnText = "Start a project with us"
 

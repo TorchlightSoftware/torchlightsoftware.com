@@ -10,6 +10,18 @@
                             class="color">{{ with .Site.Data.contact.headingSpan }} {{ . }} {{ end }}</span></h2>
                     <div class="border-meghna"></div>
                 </div>
+
+                <div>
+                    {{with .Site.Data.contact.description}} <p>{{ . }}:</p> {{ end }}
+                            {{ range .Site.Data.contact.message}}
+                            <ul>
+                                {{range .bulletPoint}}
+                                <li>{{ .msg }}</li>
+                                {{end}}
+                            </ul>
+                            {{end}}
+                        {{with .Site.Data.contact.description2}} <p>{{ . }}</p> {{ end }}
+                </div>
             </div>
             {{"<!-- /section title -->" | safeHTML}}
 
@@ -22,6 +34,7 @@
                     <div class="con-info clearfix">
                         <i style="color: #e96658" class="{{ .icon }}"></i>
                         <span>{{ .info }}</span>
+                      
                     </div>
                     {{ end }}
                 </div>
