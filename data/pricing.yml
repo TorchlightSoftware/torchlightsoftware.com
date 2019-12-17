@@ -25,7 +25,6 @@ pricingTable :
       - planDetails : Agile sprints
       - planDetails : Project status updates
       - planDetails : Iterative development workflow
-      
 
   - title : Self-Reliance
     price : $0
@@ -33,9 +32,5 @@ pricingTable :
     btnText : Signup
     plan :
       - planDetails : We help you hire & train your team
-      - planDetails : We share our business process
+      - planDetails : We share our business processes
       - planDetails : We teach you how to rock at owning a software company
-
-
-
-

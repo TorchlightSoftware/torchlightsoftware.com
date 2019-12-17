@@ -12,23 +12,14 @@ message:
 
 description2: "If this sounds like you, we'd love to talk. We think that by working together to understand the world we can create better products and better companies. We care about your people, your customers, and your product."
 
-
-
-title : Lets talk about your vision
-content : We'll get back to you shortly and schedule a free consultation call.
+title : Lets talk about your vision!
+content : Click below to schedule a free 30 minute consultation call.
 enable_maps : false
-
 
 contactDetails :
   - icon : tf-map-pin
     info : "Phoenix, AZ"
-    
-    
-
-  
   - icon : tf-ion-ios-telephone-outline
-    info : "623-882-4246"  
-
+    info : "623-882-4246"
   - icon : tf-ion-ios-email-outline
     info : "brandon@torchlightsoftware.com"
-
