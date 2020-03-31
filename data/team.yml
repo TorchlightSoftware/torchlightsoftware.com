@@ -2,27 +2,10 @@ enable : true
 heading : Our Team
 
 teamMember :
-  - image : images/team/brandon.jpg
+  - image : images/team/brandon-800.jpg
     name : Brandon Mason
     designation : Owner | Sr Developer
 
-  - image : images/team/kent.jpg
+  - image : images/team/kent-800.jpg
     name : Kent Robinson
     designation : UI/UX Designer
-
-  - image : images/team/maylene.jpg
-    name : Maylene Cavazos
-    designation : Project Manager
-
-  - image : images/team/martin.jpg
-    name : Martin Patino
-    designation : Sr Developer
-
-  - image : images/team/milan.jpg
-    name : Milan Prpa
-    designation : Jr Developer
-
-  - image : images/team/sherman.png
-    name : Sherman Boyd
-    designation : Sr DevOps | Too cool for team photos
-    

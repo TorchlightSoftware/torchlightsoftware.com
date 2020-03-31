@@ -61,7 +61,7 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/torch-hero.jpg"
+    bgImage = "images/slider/torch-hero-1200.jpg"
     #icon = "tf-ion-play"
     heading = "Bringing Your Software Vision To Light"
     content= "We launch flagship software companies in new markets"
@@ -80,7 +80,7 @@ custom_css = ["css/custom.css"]
     # counter
     [params.counter]
     enable = true
-    bgImage = "images/backgrounds/desert-bg.jpg"
+    bgImage = "images/backgrounds/desert-bg-1200.jpg"
         [[params.counter.counterItem]]
         title = "Happy Clients"
         icon = "tf-ion-android-happy"
