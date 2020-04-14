@@ -1014,12 +1014,12 @@ a:hover {
   border: 1px solid rgba(236, 239, 241, 0.07);
   padding-bottom: 30px;
   margin-bottom: 15px;
-  background-color: white;
+  background-color: #eaeff5;
   height: 100%;
 }
 
 .price-title {
-  background-color: white;
+  background-color: #eaeff5;
   padding: 30px 0 20px;
 }
 
@@ -1057,7 +1057,7 @@ a:hover {
 }
 
 .pricing li:nth-child(2n) {
-  background-color: white;
+  background-color: #eaeff5;
 }
 
 .pricing li .btn {

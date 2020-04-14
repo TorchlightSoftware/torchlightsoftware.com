@@ -1,10 +1,11 @@
 enable : true
 heading : Our Services
+note : Prices vary based on project and team size.
 
 pricingTable :
 
   - title : Blueprint
-    price : $6-12K
+    price : $6K-12K
     time :
     btnURL : #
     btnText : Signup
@@ -16,7 +17,7 @@ pricingTable :
 
 
   - title : Product Development
-    price : $40-80K
+    price : $20K-60K
     time : /month
     btnURL : #
     btnText : Signup

@@ -17,6 +17,10 @@
   padding: 10px 35px;
 }
 
+div {
+  font-family: quattrocento sans,sans-serif;
+}
+
 .btn-torch:hover {
   background: #f9c956;
   color: #fff;
