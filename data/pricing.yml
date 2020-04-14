@@ -4,7 +4,7 @@ heading : Our Services
 pricingTable :
 
   - title : Blueprint
-    price : $12K
+    price : $6-12K
     time :
     btnURL : #
     btnText : Signup
@@ -16,7 +16,7 @@ pricingTable :
 
 
   - title : Product Development
-    price : $80K
+    price : $40-80K
     time : /month
     btnURL : #
     btnText : Signup
