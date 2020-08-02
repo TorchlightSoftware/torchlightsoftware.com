@@ -53,7 +53,7 @@ home= "Home"
 logo = "images/torch-navi.png"
 # Meta data
 description = "Bringing your software vision to light"
-author = "Milan Prpa"
+author = "Brandon Mason"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 custom_css = ["css/custom.css"]
